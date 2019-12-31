@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d2160bc"],{c191:function(n,e,t){"use strict";t.r(e);var c=function(){var n=this,e=n.$createElement,t=n._self._c||e;return t("div",[n._v("\n  Server side tree CRUD is under construction\n")])},r=[],u={},s=u,i=t("2877"),l=Object(i["a"])(s,c,r,!1,null,null,null);e["default"]=l.exports}}]);
+//# sourceMappingURL=chunk-2d2160bc.9cf17a18.js.map
