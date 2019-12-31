@@ -1,91 +1,91 @@
 self.__precacheManifest = [
   {
-    "revision": "55e8ff2793773d2fd549",
+    "revision": "3b44ba1764d945411fbe",
     "url": "css/app.a01fa0f2.css"
   },
   {
-    "revision": "55e8ff2793773d2fd549",
-    "url": "js/app.bf09de24.js"
+    "revision": "3b44ba1764d945411fbe",
+    "url": "js/app.21b6cde4.js"
   },
   {
-    "revision": "e1bcb0ae79a14885d504",
+    "revision": "1703380a448454c75b9c",
     "url": "css/chunk-01e9b8b4.d3df0ead.css"
   },
   {
-    "revision": "e1bcb0ae79a14885d504",
-    "url": "js/chunk-01e9b8b4.db40211f.js"
+    "revision": "1703380a448454c75b9c",
+    "url": "js/chunk-01e9b8b4.b715cb1e.js"
   },
   {
-    "revision": "ab9eeb112bfb97bcd56e",
+    "revision": "37861f2b21e8aec7ee84",
     "url": "css/chunk-036d973a.a52f353e.css"
   },
   {
-    "revision": "ab9eeb112bfb97bcd56e",
-    "url": "js/chunk-036d973a.36b1ccf5.js"
+    "revision": "37861f2b21e8aec7ee84",
+    "url": "js/chunk-036d973a.e7080f23.js"
   },
   {
     "revision": "6ac0b7407ed54a852215",
     "url": "js/chunk-03bdb9f4.f6447785.js"
   },
   {
-    "revision": "32dad5699b636cab9b6f",
+    "revision": "2400ed052523ca03eab1",
     "url": "css/chunk-26953928.0ba916f7.css"
   },
   {
-    "revision": "32dad5699b636cab9b6f",
-    "url": "js/chunk-26953928.08f8eb1e.js"
+    "revision": "2400ed052523ca03eab1",
+    "url": "js/chunk-26953928.25c3d1e2.js"
   },
   {
-    "revision": "e0e2faf195008f44ba85",
+    "revision": "b95866c4407ce67a174e",
     "url": "css/chunk-2bd9216d.d3df0ead.css"
   },
   {
-    "revision": "e0e2faf195008f44ba85",
-    "url": "js/chunk-2bd9216d.2a2e307a.js"
+    "revision": "b95866c4407ce67a174e",
+    "url": "js/chunk-2bd9216d.87980d4b.js"
   },
   {
-    "revision": "5789d01d372c4089fbb4",
-    "url": "js/chunk-2d0d3334.b37ba091.js"
+    "revision": "9d71c8a70c045597abf6",
+    "url": "js/chunk-2d0d3334.5419ae18.js"
   },
   {
-    "revision": "a4cd37c4e515d214892a",
-    "url": "js/chunk-2d0e9d06.066079be.js"
+    "revision": "28df5def7d9b61765ee1",
+    "url": "js/chunk-2d0e9d06.d5ba1102.js"
   },
   {
-    "revision": "251ed660b3780c1266c4",
-    "url": "js/chunk-2d2160bc.9cf17a18.js"
+    "revision": "6fac135cd81ca4c0c897",
+    "url": "js/chunk-2d2160bc.71e75af6.js"
   },
   {
-    "revision": "a4744402bd6657358945",
+    "revision": "4c129375201d6ed9f839",
     "url": "css/chunk-829c7efc.f98e784c.css"
   },
   {
-    "revision": "a4744402bd6657358945",
-    "url": "js/chunk-829c7efc.351086a2.js"
+    "revision": "4c129375201d6ed9f839",
+    "url": "js/chunk-829c7efc.0ccb57d7.js"
   },
   {
-    "revision": "67b4d06fdfad366d8b02",
-    "url": "js/chunk-97d0bb00.1ccb71b8.js"
+    "revision": "073419f18338ea711641",
+    "url": "js/chunk-97d0bb00.c65ae579.js"
   },
   {
-    "revision": "63c43b876c6c4d10b8c6",
-    "url": "js/chunk-97fc0b7a.7f1d6d73.js"
+    "revision": "b4c8a36d70041e128d82",
+    "url": "js/chunk-97fc0b7a.f23bacfb.js"
   },
   {
-    "revision": "718893c1561ae330fb9d",
+    "revision": "300318f50d415486fb5d",
     "url": "css/chunk-9f1a9326.a513a69e.css"
   },
   {
-    "revision": "718893c1561ae330fb9d",
-    "url": "js/chunk-9f1a9326.525e5930.js"
+    "revision": "300318f50d415486fb5d",
+    "url": "js/chunk-9f1a9326.abb91938.js"
   },
   {
-    "revision": "d760a47178f716813c5f",
+    "revision": "9c96f9a8c90af289c26f",
     "url": "css/chunk-a8836b76.d007547c.css"
   },
   {
-    "revision": "d760a47178f716813c5f",
-    "url": "js/chunk-a8836b76.a0969e89.js"
+    "revision": "9c96f9a8c90af289c26f",
+    "url": "js/chunk-a8836b76.623f67d0.js"
   },
   {
     "revision": "93f9d52731954b1e508d",
@@ -116,12 +116,12 @@ self.__precacheManifest = [
     "url": "fonts/MaterialIcons-Regular.0509ab09.woff2"
   },
   {
-    "revision": "96c476804d7a788cc1c05351b287ee41",
-    "url": "fonts/MaterialIcons-Regular.96c47680.eot"
-  },
-  {
     "revision": "29b882f018fa6fe75fd338aaae6235b8",
     "url": "fonts/MaterialIcons-Regular.29b882f0.woff"
+  },
+  {
+    "revision": "96c476804d7a788cc1c05351b287ee41",
+    "url": "fonts/MaterialIcons-Regular.96c47680.eot"
   },
   {
     "revision": "da4ea5cdfca6b3baab285741f5ccb59f",
@@ -136,7 +136,7 @@ self.__precacheManifest = [
     "url": "img/vue-crud-md.ee509a0d.png"
   },
   {
-    "revision": "3c7fc7ae48cbb21ba2a5d92ec5ab0d96",
+    "revision": "2e09573b75ba78d5a0c95d695ac62cc4",
     "url": "index.html"
   },
   {

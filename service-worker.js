@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "precache-manifest.0189de2773156bbd163e6e9a722efa73.js"
+  "precache-manifest.d9cd0b5e3ac2c1346c09d78efae007bc.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "vue-crud"});
